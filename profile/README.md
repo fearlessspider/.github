@@ -2,6 +2,12 @@
 
 ## Hi there 👋
 
+* ✨ Small and Big Projects.
+* 🇵🇱 Based in Lodz, Poland.
+* 🔭 I’m currently working on Python + React project.
+* 📫 How to reach me:
+  * 📧 office@fearlessspider.com
+
 <!--
 
 **Here are some ideas to get you started:**
