@@ -1,4 +1,4 @@
-![Test Image 1](cover.png)
+![Test Image 1](https://github.com/fearlessspider/.github/blob/main/profile/cover.png)
 
 ## Hi there 👋
 
