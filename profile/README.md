@@ -1,3 +1,5 @@
+![Test Image 1](cover.png)
+
 ## Hi there 👋
 
 <!--
